@@ -3,7 +3,7 @@
 I'm a software engineer at [Arich](https://myarich.com) in Lagos, Nigeria 🌆
 
 - 🔭 I’m currently working on the [flutter laravel form validation library](https://github.com/abiodundotdev/flutter_laravel_form_validation)
-- ☕ I’m learning how to be a better sofware engineer
+- ☕ I’m learning how to be a better software engineer
 - 🧑‍💻 I’m looking to collaborate on open source projects
 - 💬 Ask me about [Flutter](https://flutter.dev), [Dart](https://dart.dev) [Android](https://developer.android.com/docs), [IOS](https://developer.apple.com/documentation/).
 - 😄 Pronouns: he/him/his
