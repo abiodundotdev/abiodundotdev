@@ -13,6 +13,8 @@ I'm a software engineer at [Arich](https://myarich.com) in Lagos, Nigeria 🌆
 
 [![Flutter Laravel Form Validation](https://github-readme-stats.vercel.app/api/pin/?username=abiodundotdev&repo=flutter_laravel_form_validation)](https://github.com/abiodundotdev/flutter_laravel_form_validation)
 
+[![Dart Resolver](https://github-readme-stats.vercel.app/api/pin/?username=abiodundotdev&repo=resolver)](https://github.com/abiodundotdev/resolver)
+
 ### Github Stats
 
 [![Abiodun's Github Stats](https://github-readme-stats.vercel.app/api?username=abiodundotdev&count_private=true&theme=default&show_icons=true)](https://github.com/abiodundotdev)
