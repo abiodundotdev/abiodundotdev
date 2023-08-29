@@ -1,6 +1,6 @@
 ### Hi there 👋 👋 👋 👋 👋
 
-I'm a software engineer at [Arich](https://myarich.com) in Lagos, Nigeria 🌆
+I'm a software engineer from Lagos, Nigeria 🌆
 
 - 🔭 I’m currently working on the [flutter laravel form validation library](https://github.com/abiodundotdev/flutter_laravel_form_validation)
 - ☕ I’m learning how to be a better software engineer
