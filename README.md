@@ -15,6 +15,8 @@ I'm a software engineer from Lagos, Nigeria 🌆
 
 [![Dart Resolver](https://github-readme-stats.vercel.app/api/pin/?username=abiodundotdev&repo=resolver)](https://github.com/abiodundotdev/resolver)
 
+[![Flutter FancyKaypad](https://github-readme-stats.vercel.app/api/pin/?username=abiodundotdev&repo=fancykeypad)](https://github.com/abiodundotdev/fancykeypad)
+
 ### Github Stats
 
 [![Abiodun's Github Stats](https://github-readme-stats.vercel.app/api?username=abiodundotdev&count_private=true&theme=default&show_icons=true)](https://github.com/abiodundotdev)
