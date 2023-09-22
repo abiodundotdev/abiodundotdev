@@ -11,11 +11,10 @@ I'm a software engineer from Lagos, Nigeria 🌆
 
 ### Open Source Projects
 
-[![Flutter Laravel Form Validation](https://github-readme-stats.vercel.app/api/pin/?username=abiodundotdev&repo=flutter_laravel_form_validation)](https://github.com/abiodundotdev/flutter_laravel_form_validation)
-
-[![Dart Resolver](https://github-readme-stats.vercel.app/api/pin/?username=abiodundotdev&repo=resolver)](https://github.com/abiodundotdev/resolver)
-
-[![Flutter FancyKaypad](https://github-readme-stats.vercel.app/api/pin/?username=abiodundotdev&repo=fancykeypad)](https://github.com/abiodundotdev/fancykeypad)
+|  |  |
+| :---: | :--- 
+| [![Flutter Laravel Form Validation](https://github-readme-stats.vercel.app/api/pin/?username=abiodundotdev&repo=flutter_laravel_form_validation)](https://github.com/abiodundotdev/flutter_laravel_form_validation) | [![Dart Resolver](https://github-readme-stats.vercel.app/api/pin/?username=abiodundotdev&repo=resolver)](https://github.com/abiodundotdev/resolver) |
+| [![Flutter FancyKaypad](https://github-readme-stats.vercel.app/api/pin/?username=abiodundotdev&repo=fancykeypad)](https://github.com/abiodundotdev/fancykeypad) | [![Flutter FancyKaypad](https://github-readme-stats.vercel.app/api/pin/?username=abiodundotdev&repo=laravel-anchor)](https://github.com/abiodundotdev/laravel-anchor) |
 
 ### Github Stats
 
