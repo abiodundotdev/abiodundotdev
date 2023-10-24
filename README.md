@@ -2,7 +2,7 @@
 
 I'm a software engineer from Lagos, Nigeria 🌆
 
-- 🔭 I’m currently working on the [Mircroservice Architecture in Flutter](https://github.com/abiodundotdev/fluttermircoservice)
+- 🔭 I’m currently working on the [Mircroservice Architecture in Flutter](https://github.com/abiodundotdev/fluttermicroservice)
 - ☕ I’m learning how to be a better software engineer
 - 🧑‍💻 I’m looking to collaborate on open-source projects
 - 💬 Ask me about [Flutter](https://flutter.dev), [Dart](https://dart.dev), [Android](https://developer.android.com/docs), [IOS](https://developer.apple.com/documentation/).
