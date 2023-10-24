@@ -7,7 +7,7 @@ I'm a software engineer from Lagos, Nigeria 🌆
 - 🧑‍💻 I’m looking to collaborate on open-source projects
 - 💬 Ask me about [Flutter](https://flutter.dev), [Dart](https://dart.dev), [Android](https://developer.android.com/docs), [IOS](https://developer.apple.com/documentation/).
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: I have no girlfriend
+- ⚡ Fun fact: I have no girlfriend for now
 
 ### Open Source Projects
 
